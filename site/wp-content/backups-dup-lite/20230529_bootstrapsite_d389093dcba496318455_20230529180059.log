@@ -1,0 +1,75 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: May 29, 2023 6:01 pm
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.5.4
+WORDPRESS:	6.2.2
+PHP INFO:	8.0.28 | SAPI: apache2handler
+SERVER:		Apache/2.4.56 (Debian) 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (128M default) 
+MEMORY STACK: 8MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported
+TABLES: total:15 | filtered:0 | create:15
+FILTERED: []
+SQL CREATED: 20230529_bootstrapsite_d389093dcba496318455_20230529180059_database.sql
+SQL FILE SIZE: 10.89MB (11423193)
+SQL FILE TIME: 2023-05-29 18:01:52
+SQL RUNTIME: 1.95 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  /var/www/html
+ARCHIVE FILE: 20230529_bootstrapsite_d389093dcba496318455_20230529180059_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	127.78MB
+STATS:	Dirs 1,035 | Files 5,963
+SQL ADDED: 20230529_bootstrapsite_d389093dcba496318455_20230529180059_database.sql
+ZipArchive Object
+(
+    [lastId] => 6997
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 6998
+    [filename] => /var/www/html/wp-content/backups-dup-lite/tmp/20230529_bootstrapsite_d389093dcba496318455_20230529180059_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 6997
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 49.38MB
+ARCHIVE RUNTIME: 172.97 sec.
+MEMORY STACK: 10MB
+building installer
+ARCHIVE CONSISTENCY TEST: PASS
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 10.89MB
+INSTALLER FILE: 73.35KB
+ARCHIVE FILE: 51.24MB 
+EXPECTED FILE/DIRECTORY COUNT: 6,998
+ACTUAL FILE/DIRECTORY COUNT: 6,997
+ARCHIVE CONSISTENCY TEST: Pass
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 225.98 sec.
+PEAK PHP MEMORY USED: 20.01MB
+DONE PROCESSING => 20230529_bootstrapsite May 29, 2023 6:05 pm
+
